@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tech Louisville\\source\\repos\\RunGroop\\rungroopwebapp\\rungroopwebapp\\RunGroopWebApp.csproj": {}
+    "C:\\Users\\Tech Louisville\\source\\repos\\RunGroop\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tech Louisville\\source\\repos\\RunGroop\\rungroopwebapp\\rungroopwebapp\\RunGroopWebApp.csproj": {
+    "C:\\Users\\Tech Louisville\\source\\repos\\RunGroop\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tech Louisville\\source\\repos\\RunGroop\\rungroopwebapp\\rungroopwebapp\\RunGroopWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Tech Louisville\\source\\repos\\RunGroop\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
         "projectName": "RunGroopWebApp",
-        "projectPath": "C:\\Users\\Tech Louisville\\source\\repos\\RunGroop\\rungroopwebapp\\rungroopwebapp\\RunGroopWebApp.csproj",
+        "projectPath": "C:\\Users\\Tech Louisville\\source\\repos\\RunGroop\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
         "packagesPath": "C:\\Users\\Tech Louisville\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tech Louisville\\source\\repos\\RunGroop\\rungroopwebapp\\rungroopwebapp\\obj\\",
+        "outputPath": "C:\\Users\\Tech Louisville\\source\\repos\\RunGroop\\RunGroopWebApp\\RunGroopWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tech Louisville\\AppData\\Roaming\\NuGet\\NuGet.Config",
